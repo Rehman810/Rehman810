@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehman810&label=Profile%20views&color=0e75b6&style=flat" alt="rehman810" /> </p>
 
-- 🔭 I’m currently working on **my personal project**
+- 🔭 I’m currently working in **SoftMark Solutions**
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://abdulrehman810-portfolio.netlify.app/](https://abdulrehman810-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abdulrehman810-portfolio.vercel.app/](https://abdulrehman810-portfolio.vercel.app/)
 
 - 💬 Ask me about **React.js, React Native and JavaScript.**
 
